@@ -11,5 +11,7 @@ In recent years, AtliQ Hardware has experienced significant growth, prompting th
 - DAX language
 - DAX studio
 
-## 
+It is designed to offer in-depth insights into four key business areas: Finance, Sales, Marketing, and Supply Chain. Each view in the dashboard is tailored to provide specific data and metrics crucial for strategic decision-making and enhancing operational efficiency.
+
+
 
