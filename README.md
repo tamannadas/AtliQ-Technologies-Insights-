@@ -35,5 +35,7 @@ Each view within the dashboard is user-friendly and interactive, facilitating ea
 
 The Power BI Dashboard for Atlique Technologies represents a significant step forward in harnessing the power of data analytics for business intelligence. By integrating diverse datasets into a single, interactive platform, this dashboard provides a 360-degree view of the company's operations across Finance, Sales, Marketing, and Supply Chain. As Atlique Technologies continues to evolve in a dynamic business environment, this dashboard will serve as an invaluable asset in navigating challenges, seizing opportunities, and sustaining growth. It exemplifies how technology and data, when effectively leveraged, can be a game-changer in the competitive business landscape.
 
+![AtliQ Supply Chain View](https://github.com/tamannadas/AtliQ-Technologies-Insights-/blob/main/AtliQ%20Supply%20Chain%20View.PNG)
+
 
 
