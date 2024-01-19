@@ -4,4 +4,12 @@ In recent years, AtliQ Hardware has experienced significant growth, prompting th
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYjYzYjZkMjItOTk5ZS00MWE2LTg5YzUtZDNhYTkyZjFhZTdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+## Tech skills used 
+- SQL
+- PowerBi Desktop
+- Excel
+- DAX language
+- DAX studio
+
+## 
 
