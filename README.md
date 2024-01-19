@@ -24,6 +24,8 @@ This view focuses on the analysis and performance metrics of sales data. It enco
 ### Marketing View
 The Marketing View is geared towards providing insights into marketing performance and costs. It covers critical aspects like the cost of goods sold (COGS) and evaluates the gross margin and net profit to gauge the efficacy of marketing strategies. The view further delves into various metrics related to marketing expenditures and return on investment.
 
+![AtliQ Marketing View]https://github.com/tamannadas/AtliQ-Technologies-Insights-/blob/main/AtliQ%20Marketing%20View.PNG
+
 ### Supply Chain View
 Tailored for optimizing logistics and supply chain management, this view includes metrics such as forecast accuracy and net error by month, offering a clear picture of the supply chain's effectiveness. It provides a segment-wise analysis of the supply chain performance and features a real-time tracking system for inventory levels, highlighting products at risk of being out of stock.
 
