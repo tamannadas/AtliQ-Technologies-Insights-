@@ -21,6 +21,8 @@ The Finance View presents a comprehensive analysis of the company's financial st
 ### Sales View
 This view focuses on the analysis and performance metrics of sales data. It encompasses the net sales and gross margin statements for customers, providing a detailed breakdown of these metrics. The view also compares net sales and gross margin percentages across different markets and regions and offers segment-wise insights into net sales and gross margins.
 
+![AtliQ Sales View](https://github.com/tamannadas/AtliQ-Technologies-Insights-/blob/main/AtliQ%20Sales%20View.PNG)
+
 ### Marketing View
 The Marketing View is geared towards providing insights into marketing performance and costs. It covers critical aspects like the cost of goods sold (COGS) and evaluates the gross margin and net profit to gauge the efficacy of marketing strategies. The view further delves into various metrics related to marketing expenditures and return on investment.
 
