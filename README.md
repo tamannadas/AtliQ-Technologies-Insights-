@@ -16,6 +16,8 @@ It is designed to offer in-depth insights into four key business areas: Finance,
 ### Finance View
 The Finance View presents a comprehensive analysis of the company's financial status. It includes the profit and loss statements, showcasing the company's earnings and expenses. The view also tracks the net sales performance over time, offering insights into growth patterns. Additionally, it highlights the top and bottom performing products and customers in terms of net sales.
 
+![AtliQ Finance View](https://github.com/tamannadas/AtliQ-Technologies-Insights-/blob/main/AtliQ%20Finance%20View.PNG)
+
 ### Sales View
 This view focuses on the analysis and performance metrics of sales data. It encompasses the net sales and gross margin statements for customers, providing a detailed breakdown of these metrics. The view also compares net sales and gross margin percentages across different markets and regions and offers segment-wise insights into net sales and gross margins.
 
